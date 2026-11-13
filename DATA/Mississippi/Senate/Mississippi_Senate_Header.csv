@@ -1,0 +1,2 @@
+"ID","UUID","RaceID","EventID","RaceType","RaceTypeID","TabulationStatus","RaceCallStatus","OfficeID","OfficeName","ElectionDate","StatePostal","IsCertified","TotalRegisteredVoters","ExpectedVoteCount","TotalVoteCount","DateCreated","DateLastModified"
+883,"fb8e4dab-5dc3-4e41-9015-12c7979a3488","20261103MS26692","20261103","General","G","Active Tabulation","Called","S","U.S. Senate","2026-11-03","MS",False,1893664,973696,968440,"2026-08-24 18:56:17.620459","2026-11-13 08:54:28.757333"
